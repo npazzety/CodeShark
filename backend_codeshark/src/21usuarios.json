@@ -1,0 +1,56 @@
+[
+  {
+    "firstName": "Eduardo",
+    "lastName": "Maldonado",
+    "correo electronico": "eduarditoMessi",
+    "teleonoMovil": "69",
+    "contraseña": "mueroXmotagua69",
+    "plan" :"Fishpack",
+    "carpetas": [
+       {
+        "id": 101,
+        "nombre": "CarpetasUsuario1",
+        "proyectos": [
+          {
+            "id": 1001,
+            "nombre": "Proyecto1"
+          },
+          {
+            "id": 1002,
+            "nombre": "Proyecto2"
+          }
+          ]
+      },
+      {
+        "id": 102,
+        "nombre": "OtraCarpetaUsuario1",
+        "proyectos": [
+          {
+          "id": 1003,
+          "nombre": "Proyecto3"
+          }
+          ]
+          }
+        ]
+      },
+  {
+    "firstName": "Daniel",
+    "lastName": "Leivita",
+    "correo electronico": "justinbieber",
+    "teleonoMovil": "777",
+    "contraseña": "catrachito504",
+    "plan" :"Megpack",
+    "carpetas": [
+      {
+        "id": 101,
+        "nombre": "criaturas",
+        "proyectos": [
+          {
+            "id": 1001,
+            "nombre": "nosequehacer"
+          }
+        ]
+      }
+    ]
+  }
+]

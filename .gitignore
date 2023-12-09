@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled TypeScript files
+dist/
+
+# Environment variables
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Mac OS files
+.DS_Store
+
+# MongoDB data directory (change if needed)
+/data/db
+
+# Dependency lock files
+package-lock.json
+yarn.lock

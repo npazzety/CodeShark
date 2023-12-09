@@ -1,0 +1,47 @@
+
+[{
+    "_id": "1",
+    "firstName": "Ash",
+    "lastName": "Ketchup",
+    "correo electronico": "ash504",
+    "teleonoMovil": "666",
+    "contraseña": "lokita504",
+    "plan" : "Sharkpack",
+    "carpetas": [
+      {
+        "id": 101,
+        "nombre": "CarpetasUsuario1",
+        "proyectos": [
+          {
+            "id": 1001,
+            "nombre": "Proyecto1"
+          },
+          {
+            "id": 1002,
+            "nombre": "Proyecto2"
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "nombre": "OtraCarpetaUsuario1",
+        "proyectos": [
+          {
+            "id": 1003,
+            "nombre": "Proyecto3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "firstName": "Eduardo",
+    "lastName": "Maldonado",
+    "correo electronico": "eduarditoMessi",
+    "teleonoMovil": "69",
+    "contraseña": "mueroXmotagua69",
+    "plan" :"Fishpack"
+  }
+  ]
+

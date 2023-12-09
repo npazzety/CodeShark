@@ -1,0 +1,14 @@
+{
+            "id": 101,
+            "nombre": "Unah",
+            "proyectos": [
+              {
+                "id": 1001,
+                "nombre": "codigo tiburon"
+              },
+              {
+                "id": 1002,
+                "nombre": "proyecto2"
+              }
+            ]
+}
